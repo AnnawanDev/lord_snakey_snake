@@ -1,2 +1,2 @@
-# lord_snakey_snake
-Battlesnake implementation
+# Lord Snakey Snake, a Battlesnake implementation
+
